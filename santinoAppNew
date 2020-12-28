@@ -2,7 +2,7 @@
     "appSettings":[{
     "mainUrl": "http://185.240.102.104/BKTx39",
     "secondUrl" : "http://185.240.102.104/BKTx39,
-    "organicFilter": "0",
+    "organicFilter": "1",
     "state" : "1",
     "randomState": "5"
     }
